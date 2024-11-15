@@ -183,7 +183,6 @@
             <h1>Estudiantes Sin Límites</h1>
             <p>Descubre una nueva dimensión en el aprendizaje con nuestra plataforma educativa revolucionaria</p>
             <a href="https://jd-354.github.io/un--hombre-nunca-mient-/" class="cta-button">Comienza tu Viaje</a>
-            <link rel="stylesheet" href="https://jd-354.github.io/un--hombre-nunca-mient-/"
         </section>
 
         <div class="share-link">
